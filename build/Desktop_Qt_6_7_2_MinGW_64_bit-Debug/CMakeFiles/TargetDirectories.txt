@@ -1,0 +1,9 @@
+D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/RMS.dir
+D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/RMS_autogen_timestamp_deps.dir
+D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/RMS_autogen.dir

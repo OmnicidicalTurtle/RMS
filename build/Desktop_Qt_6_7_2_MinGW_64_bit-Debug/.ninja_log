@@ -1,0 +1,23 @@
+# ninja log v6
+18	1491	7412923286129903	RMS_autogen/timestamp	d77707050ab41f69
+18	1491	7412923286129903	RMS_autogen/mocs_compilation.cpp	d77707050ab41f69
+18	1491	7412923286129903	D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/RMS_autogen/timestamp	d77707050ab41f69
+18	1491	7412923286129903	D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/RMS_autogen/mocs_compilation.cpp	d77707050ab41f69
+1501	6019	7412923287635893	CMakeFiles/RMS.dir/RMS_autogen/mocs_compilation.cpp.obj	469a6a8f12d2f594
+1509	6020	7412923287715676	CMakeFiles/RMS.dir/main.cpp.obj	d0c74ecc290108d7
+1517	6084	7412923287795457	CMakeFiles/RMS.dir/mainwindow.cpp.obj	2350c3a8bcb93c96
+6084	6549	7412923333467046	RMS.exe	f81941e969ed974c
+18	250	7412942533228673	RMS_autogen/timestamp	d77707050ab41f69
+18	250	7412942533228673	RMS_autogen/mocs_compilation.cpp	d77707050ab41f69
+18	250	7412942533228673	D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/RMS_autogen/timestamp	d77707050ab41f69
+18	250	7412942533228673	D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/RMS_autogen/mocs_compilation.cpp	d77707050ab41f69
+251	2469	7412942535562232	CMakeFiles/RMS.dir/mainwindow.cpp.obj	2350c3a8bcb93c96
+2470	2714	7412942557738365	RMS.exe	f81941e969ed974c
+47	812	7412973214996841	RMS_autogen/timestamp	d77707050ab41f69
+47	812	7412973214996841	RMS_autogen/mocs_compilation.cpp	d77707050ab41f69
+47	812	7412973214996841	D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/RMS_autogen/timestamp	d77707050ab41f69
+47	812	7412973214996841	D:/ProjectQt/RMS/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/RMS_autogen/mocs_compilation.cpp	d77707050ab41f69
+813	3560	7412973215887173	CMakeFiles/RMS.dir/RMS_autogen/mocs_compilation.cpp.obj	469a6a8f12d2f594
+817	3609	7412973215887173	CMakeFiles/RMS.dir/main.cpp.obj	d0c74ecc290108d7
+822	3748	7412973215887173	CMakeFiles/RMS.dir/mainwindow.cpp.obj	2350c3a8bcb93c96
+3748	4022	7412973245184291	RMS.exe	f81941e969ed974c
