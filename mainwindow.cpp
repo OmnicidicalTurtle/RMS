@@ -32,3 +32,4 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
+// just testing the git commits
