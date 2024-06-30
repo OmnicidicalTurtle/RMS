@@ -373,4 +373,4 @@ D:/ProjectQt/RMS/mainwindow.h
  mdp:D:/ProjectQt/RMS/mainwindow.h
 D:/ProjectQt/RMS/main.cpp
 D:/ProjectQt/RMS/mainwindow.cpp
- uic:./ui_mainwindow.h
+ uic:ui_mainwindow.h

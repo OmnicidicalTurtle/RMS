@@ -17,11 +17,14 @@
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>40</y>
+      <x>30</x>
+      <y>60</y>
       <width>161</width>
       <height>51</height>
      </rect>
+    </property>
+    <property name="autoFillBackground">
+     <bool>false</bool>
     </property>
     <property name="text">
      <string>Create Routines</string>
@@ -30,8 +33,8 @@
    <widget class="QPushButton" name="pushButton_2">
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>110</y>
+      <x>30</x>
+      <y>130</y>
       <width>161</width>
       <height>51</height>
      </rect>
@@ -43,8 +46,8 @@
    <widget class="QPushButton" name="pushButton_3">
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>180</y>
+      <x>30</x>
+      <y>200</y>
       <width>161</width>
       <height>51</height>
      </rect>
@@ -56,11 +59,17 @@
    <widget class="QTableWidget" name="tableWidget">
     <property name="geometry">
      <rect>
-      <x>340</x>
-      <y>30</y>
-      <width>741</width>
-      <height>551</height>
+      <x>270</x>
+      <y>40</y>
+      <width>781</width>
+      <height>561</height>
      </rect>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>781</width>
+      <height>561</height>
+     </size>
     </property>
    </widget>
   </widget>

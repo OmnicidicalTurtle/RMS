@@ -14,11 +14,23 @@ class MainWindow : public QMainWindow
 {
     Q_OBJECT
 
+protected:
+    void closeEvent(QCloseEvent *event) override;
+
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+private slots:
+    void createTable();
+    void viewTable();
+    void defaultTables();
+
 private:
     Ui::MainWindow *ui;
+
+    void saveTableData();
+    void loadTableData();
+
 };
 #endif // MAINWINDOW_H
